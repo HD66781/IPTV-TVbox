@@ -11,9 +11,9 @@
 
 <table>
   <colgroup>
-    <col style="width: 40%;">
-    <col style="width: 60%;">
-    <col style="width: 40%;">
+    <col style="width: 100%;1">
+    <col style="width: 100%;2">
+    <col style="width: 100%;1">
   </colgroup>
   <tr>
     <th>$\textsf{\color{#1151f3}{🌀名称🌀}}$</th>
