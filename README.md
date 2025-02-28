@@ -23,9 +23,14 @@
   </tr>
   <tr>
     <td>$\textsf{\color{#26f311}{🔰链接地址🔰}}$</td>
-    <td><a href="URL-2"></a></td>
-    <td><button class="button" onclick="copyToClipboard('URL')">$\textsf{\color{#26f311}{快速复制}}$</button></td>
+    <td><a href="https://raw.githubusercontent.com/HD66781/IPTV-TVbox/refs/heads/main/2025影视接口.json">https://raw.githubusercontent.com/HD66781/IPTV-TVbox/refs/heads/main/2025影视接口.json</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://raw.githubusercontent.com/HD66781/IPTV-TVbox/refs/heads/main/2025影视接口.json')">$\textsf{\color{#26f311}{快速复制}}$</button></td>
   </tr>
+     
+
+
+
+  
 
 <h1 align="center">📡✨🌟《TVBox影视接口源》🌟💫📡</h1>
 <h1 align="center">$\textsf{\color{#FF0000}{✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪}}$</h1>
