@@ -11,20 +11,20 @@
 
 <table>
   <colgroup>
-    <col style="width: 20%;">
+    <col style="width: 40%;">
     <col style="width: 60%;">
-    <col style="width: 20%;">
+    <col style="width: 40%;">
   </colgroup>
   <tr>
     <th>$\textsf{\color{#1151f3}{🌀名称🌀}}$</th>
     <th>$\textsf{\color{#d81313}{❤️Tvbox影视接口❤️}}$</th>
-    <th>$\textsf{\color{#26f311}{快速复制}}$
+    <th>$\textsf{\color{#1151f3}{🌀名称🌀}}$
 </th>
   </tr>
   <tr>
-    <td>$\textsf{\color{#26f311}{🔰链接地址🔰}}$</td>
+    <td>$\textsf{\color{#26f311}{链接地址}}$</td>
     <td><a href="https://raw.githubusercontent.com/HD66781/IPTV-TVbox/refs/heads/main/2025影视接口.json">https://raw.githubusercontent.com/HD66781/IPTV-TVbox/refs/heads/main/2025影视接口.json</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://raw.githubusercontent.com/HD66781/IPTV-TVbox/refs/heads/main/2025影视接口.json')">$\textsf{\color{#26f311}{快速复制}}$</button></td>
+    <td><button class="button" onclick="copyToClipboard('https://raw.githubusercontent.com/HD66781/IPTV-TVbox/refs/heads/main/2025影视接口.json')">$\textsf{\color{#26f311}{链接地址}}$</button></td>
   </tr>
      
 
